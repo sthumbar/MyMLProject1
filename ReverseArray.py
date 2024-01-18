@@ -20,3 +20,4 @@ def reverse_array(nums):
 
 a={1,2,3,4}
 print(reverse_array(a))
+print("sangeeta")
